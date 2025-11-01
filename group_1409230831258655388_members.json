@@ -1,0 +1,902 @@
+[
+  {
+    "id": "1641711837880195546",
+    "dName": "Phạm Thìn",
+    "zaloName": "Phạm Thìn",
+    "avatar": "//s120-ava-talk.zadn.vn/7/8/7/3/21/120/c552c145ceb45c55e42ed9bb79dd5326.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/7/8/7/3/21/35/c552c145ceb45c55e42ed9bb79dd5326.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "8622279638248396986",
+    "dName": "Bích Hằng",
+    "zaloName": "Bích Hằng",
+    "avatar": "//s120-ava-talk.zadn.vn/0/1/2/6/3/120/1407712a7b80833f60a2030155487206.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/0/1/2/6/3/35/1407712a7b80833f60a2030155487206.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "4961645926476830921",
+    "dName": "Trần Linh",
+    "zaloName": "Trần Linh",
+    "avatar": "//s120-ava-talk.zadn.vn/c/7/0/6/1/120/d75332243accb1aaf7dc0ddd94e687f8.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/c/7/0/6/1/35/d75332243accb1aaf7dc0ddd94e687f8.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "4293532930606066055",
+    "dName": "Đặng Anh Tú",
+    "zaloName": "Đặng Anh Tú",
+    "avatar": "//s160.avatar.talk.zdn.vn/default",
+    "avatar_25": "//s160.avatar.talk.zdn.vn/default",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "8184440060248597126",
+    "dName": "Phan Thủy",
+    "zaloName": "Phan Thủy",
+    "avatar": "//s120-ava-talk.zadn.vn/a/7/8/0/1/120/015661ace56cf6fb9cd181d9c19d0899.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/a/7/8/0/1/35/015661ace56cf6fb9cd181d9c19d0899.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "7917873966091881459",
+    "dName": "Học Viện Đào Tạo Mkt",
+    "zaloName": "Học Viện Đào Tạo Mkt",
+    "avatar": "//s120-ava-talk.zadn.vn/5/6/8/e/40/120/d65014732d55646bceb55a02d737918d.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/5/6/8/e/40/35/d65014732d55646bceb55a02d737918d.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "5417207208780570943",
+    "dName": "Cherry",
+    "zaloName": "Cherry",
+    "avatar": "//s120-ava-talk.zadn.vn/2/d/3/2/44/120/a39712ebc39100a61a9c3ffba3cf5648.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/2/d/3/2/44/35/a39712ebc39100a61a9c3ffba3cf5648.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "5716429915586255942",
+    "dName": "Dinhquangkhai",
+    "zaloName": "Dinhquangkhai",
+    "avatar": "//s120-ava-talk.zadn.vn/7/1/6/e/5/120/2e4f5b878826725afd97d3ad281335c8.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/7/1/6/e/5/35/2e4f5b878826725afd97d3ad281335c8.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "6170437701174703027",
+    "dName": "Trọng Dương",
+    "zaloName": "Trọng Dương",
+    "avatar": "//s120-ava-talk.zadn.vn/b/b/5/2/13/120/476f223bd5201737da9293bc3552ee75.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/b/b/5/2/13/35/476f223bd5201737da9293bc3552ee75.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "2789201907058431143",
+    "dName": "Tịnh Liên",
+    "zaloName": "Tịnh Liên",
+    "avatar": "//s120-ava-talk.zadn.vn/d/4/3/d/4/120/f23049070c85f3c4e8a7950d6b60bafd.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/d/4/3/d/4/35/f23049070c85f3c4e8a7950d6b60bafd.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "6301734265964291174",
+    "dName": "Trần Hồng Minh",
+    "zaloName": "Trần Hồng Minh",
+    "avatar": "//s120-ava-talk.zadn.vn/5/a/0/c/79/120/be25473e2bd4420026f0943bedf25813.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/5/a/0/c/79/35/be25473e2bd4420026f0943bedf25813.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "9118354622285624216",
+    "dName": "Duc Thuan",
+    "zaloName": "Duc Thuan",
+    "avatar": "//s120-ava-talk.zadn.vn/2/0/e/d/8/120/46beaca4b8c1e36c6273386d39160fc2.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/2/0/e/d/8/35/46beaca4b8c1e36c6273386d39160fc2.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "3435179057958044862",
+    "dName": "Ken",
+    "zaloName": "Ken",
+    "avatar": "//s120-ava-talk.zadn.vn/9/c/8/7/15/120/8b096bc132c877c4f876f9291fd425d7.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/9/c/8/7/15/35/8b096bc132c877c4f876f9291fd425d7.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "3516946780392274396",
+    "dName": "Lâm Hằng",
+    "zaloName": "Lâm Hằng",
+    "avatar": "//s120-ava-talk.zadn.vn/c/0/7/f/1/120/9e80e15040a10d0ef1ea9e7777dc76b8.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/c/0/7/f/1/35/9e80e15040a10d0ef1ea9e7777dc76b8.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "1453969977763593791",
+    "dName": "Tạ Dương",
+    "zaloName": "Tạ Dương",
+    "avatar": "//s120-ava-talk.zadn.vn/f/7/7/c/22/120/53b40e527c095a70dae2c5d2b86b55bb.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/f/7/7/c/22/35/53b40e527c095a70dae2c5d2b86b55bb.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "7517194969672154432",
+    "dName": "Trung Kien",
+    "zaloName": "Trung Kien",
+    "avatar": "//s120-ava-talk.zadn.vn/a/a/0/5/10/120/27b83a46f9aab447bc61b72439f06f8f.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/a/a/0/5/10/35/27b83a46f9aab447bc61b72439f06f8f.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "3842465646871847233",
+    "dName": "Phan Tuyết",
+    "zaloName": "Phan Tuyết",
+    "avatar": "//s120-ava-talk.zadn.vn/3/b/e/c/19/120/b3eddc29ae2cf919705c38f4d3650e4f.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/3/b/e/c/19/35/b3eddc29ae2cf919705c38f4d3650e4f.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "4997129459003906891",
+    "dName": "Nguyễn Văn Tài",
+    "zaloName": "Nguyễn Văn Tài",
+    "avatar": "//s120-ava-talk.zadn.vn/8/c/0/2/18/120/13700159de8fbf3063f4a2c99eb04601.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/8/c/0/2/18/35/13700159de8fbf3063f4a2c99eb04601.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "3042498214202004523",
+    "dName": "Phuong Tran",
+    "zaloName": "Phuong Tran",
+    "avatar": "//s120-ava-talk.zadn.vn/1/c/b/9/2/120/b1c22b96a64cab244237f25dd4772e64.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/1/c/b/9/2/35/b1c22b96a64cab244237f25dd4772e64.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "7884799858702173822",
+    "dName": "Trường Kim",
+    "zaloName": "Trường Kim",
+    "avatar": "//s120-ava-talk.zadn.vn/5/c/f/7/7/120/0030a9147d1fc3a6f771de51e0d58e98.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/5/c/f/7/7/35/0030a9147d1fc3a6f771de51e0d58e98.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "3853298786260814699",
+    "dName": "Tung Dinh Kim",
+    "zaloName": "Tung Dinh Kim",
+    "avatar": "//s120-ava-talk.zadn.vn/e/0/1/2/8/120/7c084af0e48fa816a883ca263ec99e3e.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/e/0/1/2/8/35/7c084af0e48fa816a883ca263ec99e3e.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "9079792445801642003",
+    "dName": "Phí Thị Thủy",
+    "zaloName": "Phí Thị Thủy",
+    "avatar": "//s120-ava-talk.zadn.vn/3/c/8/7/7/120/a151e935d14f9fc9a308eb9686241eb7.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/3/c/8/7/7/35/a151e935d14f9fc9a308eb9686241eb7.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "881738034599458606",
+    "dName": "Kim Dieu",
+    "zaloName": "Kim Dieu",
+    "avatar": "//s120-ava-talk.zadn.vn/2/7/4/8/40/120/656a04ccd84f4f827bb6bce65be628f7.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/2/7/4/8/40/35/656a04ccd84f4f827bb6bce65be628f7.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "6328628743524336577",
+    "dName": "Nghiahcm",
+    "zaloName": "Nghiahcm",
+    "avatar": "//s120-ava-talk.zadn.vn/8/7/6/e/7/120/e614cb22ea4684f6910278fe87cca23d.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/8/7/6/e/7/35/e614cb22ea4684f6910278fe87cca23d.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "6795165432490972255",
+    "dName": "Đinh Hằng",
+    "zaloName": "Đinh Hằng",
+    "avatar": "//s120-ava-talk.zadn.vn/c/4/a/e/7/120/ad55066015f90c2ad1e74f12c54e67be.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/c/4/a/e/7/35/ad55066015f90c2ad1e74f12c54e67be.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "4729001624635844274",
+    "dName": "Sinh Vjo",
+    "zaloName": "Sinh Vjo",
+    "avatar": "//s120-ava-talk.zadn.vn/9/0/6/7/3/120/35dde59893c2c0a464f9c8d4d6470899.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/9/0/6/7/3/35/35dde59893c2c0a464f9c8d4d6470899.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "5349393049476280622",
+    "dName": "Pham Thang",
+    "zaloName": "Pham Thang",
+    "avatar": "//s120-ava-talk.zadn.vn/3/a/2/4/2/120/7c6d66441a0ab65a0944cc63ee2c2f1f.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/3/a/2/4/2/35/7c6d66441a0ab65a0944cc63ee2c2f1f.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "1977789372520803936",
+    "dName": "Lê Tuấn",
+    "zaloName": "Lê Tuấn",
+    "avatar": "//s120-ava-talk.zadn.vn/5/8/1/9/13/120/9153c7949ec5950f19c4eaf00fbe691e.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/5/8/1/9/13/35/9153c7949ec5950f19c4eaf00fbe691e.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "8105613638476909422",
+    "dName": "Duong Ha Vn",
+    "zaloName": "Duong Ha Vn",
+    "avatar": "//s120-ava-talk.zadn.vn/9/8/7/e/1/120/f7948c434206313da3b49564bb9b07dd.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/9/8/7/e/1/35/f7948c434206313da3b49564bb9b07dd.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "9021389779231377440",
+    "dName": "Cong Tran",
+    "zaloName": "Cong Tran",
+    "avatar": "//s120-ava-talk.zadn.vn/2/8/a/7/9/120/9aa6d9d2799d8e4d58b79c02d5126718.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/2/8/a/7/9/35/9aa6d9d2799d8e4d58b79c02d5126718.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "8175709048358519655",
+    "dName": "Đạo Nguyễn",
+    "zaloName": "Đạo Nguyễn",
+    "avatar": "//s120-ava-talk.zadn.vn/f/f/2/7/12/120/5fb393fdf02eb130b87cf7490d21f72a.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/f/f/2/7/12/35/5fb393fdf02eb130b87cf7490d21f72a.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "8292229842201290497",
+    "dName": "Trần Hải",
+    "zaloName": "Trần Hải",
+    "avatar": "//s120-ava-talk.zadn.vn/6/6/9/7/53/120/24458224730bc83fa59ee9486ada7426.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/6/6/9/7/53/35/24458224730bc83fa59ee9486ada7426.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "4404567949221714482",
+    "dName": "Nguyễn Quỳnh",
+    "zaloName": "Nguyễn Quỳnh",
+    "avatar": "//s120-ava-talk.zadn.vn/2/e/a/d/29/120/2957605ac7155e42e8a2ce330597fb4c.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/2/e/a/d/29/35/2957605ac7155e42e8a2ce330597fb4c.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "3601377388571725032",
+    "dName": "THEANH",
+    "zaloName": "THEANH",
+    "avatar": "//s120-ava-talk.zadn.vn/d/7/a/1/20/120/cfc0aff4327efb883d424964823c60ed.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/d/7/a/1/20/35/cfc0aff4327efb883d424964823c60ed.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "5502778318114543183",
+    "dName": "Lily",
+    "zaloName": "Lily",
+    "avatar": "//s120-ava-talk.zadn.vn/7/b/a/b/4/120/d71919c982b8008ebc41267e7ce9f461.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/7/b/a/b/4/35/d71919c982b8008ebc41267e7ce9f461.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "6899869322760706515",
+    "dName": "Tiến Nghĩa",
+    "zaloName": "Tiến Nghĩa",
+    "avatar": "//s120-ava-talk.zadn.vn/2/4/1/b/85/120/bc7af3a71695faac6363e5c575f6e28f.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/2/4/1/b/85/35/bc7af3a71695faac6363e5c575f6e28f.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "7014466790661717578",
+    "dName": "Phan V Sơn",
+    "zaloName": "Phan V Sơn",
+    "avatar": "//s160.avatar.talk.zdn.vn/default",
+    "avatar_25": "//s160.avatar.talk.zdn.vn/default",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "3513559193572160976",
+    "dName": "Hhn",
+    "zaloName": "Hhn",
+    "avatar": "//s120-ava-talk.zadn.vn/1/f/7/9/3/120/8740d260bd6d91964b2ca5ccaf3ff6e7.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/1/f/7/9/3/35/8740d260bd6d91964b2ca5ccaf3ff6e7.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "3093608159536350204",
+    "dName": "Lê Hải Dương",
+    "zaloName": "Lê Hải Dương",
+    "avatar": "//s120-ava-talk.zadn.vn/2/4/9/1/11/120/77a532fb27899584422d64bbbcb22549.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/2/4/9/1/11/35/77a532fb27899584422d64bbbcb22549.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "6057565317274403586",
+    "dName": "Phạm Kiên",
+    "zaloName": "Phạm Kiên",
+    "avatar": "//s120-ava-talk.zadn.vn/6/8/b/7/32/120/b01c77f900432947a20594cf4210ad2c.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/6/8/b/7/32/35/b01c77f900432947a20594cf4210ad2c.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "1741231130296874296",
+    "dName": "Gia Han",
+    "zaloName": "Gia Han",
+    "avatar": "//s120-ava-talk.zadn.vn/e/6/9/c/10/120/e5fd7a264fd01856af00176fbd8126e9.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/e/6/9/c/10/35/e5fd7a264fd01856af00176fbd8126e9.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "2802710249525282039",
+    "dName": "Tuấn Anh",
+    "zaloName": "Tuấn Anh",
+    "avatar": "//s120-ava-talk.zadn.vn/6/2/7/5/25/120/b926463e772717e516f836618409ab6d.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/6/2/7/5/25/35/b926463e772717e516f836618409ab6d.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "6575755643334516051",
+    "dName": "Thìn",
+    "zaloName": "Thìn",
+    "avatar": "//s120-ava-talk.zadn.vn/d/5/4/9/8/120/95b5548125f09878aa6ec99cc02c67d8.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/d/5/4/9/8/35/95b5548125f09878aa6ec99cc02c67d8.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "8717976890671186926",
+    "dName": "Trường An",
+    "zaloName": "Trường An",
+    "avatar": "//s120-ava-talk.zadn.vn/c/f/0/a/2/120/47f9be52e4bb5516e74fa31114fac729.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/c/f/0/a/2/35/47f9be52e4bb5516e74fa31114fac729.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "3699887612659969098",
+    "dName": "Hung Cavarlly",
+    "zaloName": "Hung Cavarlly",
+    "avatar": "//s120-ava-talk.zadn.vn/3/3/7/6/20/120/ee5b51c36a264f2c9030df8e97057084.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/3/3/7/6/20/35/ee5b51c36a264f2c9030df8e97057084.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "5992830886194855480",
+    "dName": "Mạnh Hùng",
+    "zaloName": "Mạnh Hùng",
+    "avatar": "//s120-ava-talk.zadn.vn/0/2/f/8/14/120/211c2bdc554d64c73f904ee9820ddc39.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/0/2/f/8/14/35/211c2bdc554d64c73f904ee9820ddc39.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "1701269352687357070",
+    "dName": "Hoadi",
+    "zaloName": "Hoadi",
+    "avatar": "//s120-ava-talk.zadn.vn/a/e/a/7/1/120/aa42fe7731884238958317287fce1b05.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/a/e/a/7/1/35/aa42fe7731884238958317287fce1b05.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "1689153038800331107",
+    "dName": "Hoàng Ayunpa",
+    "zaloName": "Hoàng Ayunpa",
+    "avatar": "//s120-ava-talk.zadn.vn/b/b/1/b/9/120/f6fb52f820d6794655151bcb949bffe3.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/b/b/1/b/9/35/f6fb52f820d6794655151bcb949bffe3.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "7662136167247870023",
+    "dName": "Le Ngoc Tinh",
+    "zaloName": "Le Ngoc Tinh",
+    "avatar": "//s120-ava-talk.zadn.vn/7/a/7/d/2/120/bcb6870a27cced8b97d1755ca97fec95.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/7/a/7/d/2/35/bcb6870a27cced8b97d1755ca97fec95.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "8949634665421998113",
+    "dName": "Jos Tuyến",
+    "zaloName": "Jos Tuyến",
+    "avatar": "//s120-ava-talk.zadn.vn/0/6/7/e/3/120/26d543e78e9289bcda17495c620909ae.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/0/6/7/e/3/35/26d543e78e9289bcda17495c620909ae.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "2839729463056468090",
+    "dName": "Bình Minh",
+    "zaloName": "Bình Minh",
+    "avatar": "//s120-ava-talk.zadn.vn/2/0/3/4/23/120/5aaa8568b840d806dbe1f40b80979ff6.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/2/0/3/4/23/35/5aaa8568b840d806dbe1f40b80979ff6.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "6268808997046939373",
+    "dName": "Vân Anh Lê Bích",
+    "zaloName": "Vân Anh Lê Bích",
+    "avatar": "//s120-ava-talk.zadn.vn/b/0/5/d/5/120/717f6f8abb5473896e6ddabb50422c26.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/b/0/5/d/5/35/717f6f8abb5473896e6ddabb50422c26.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "3671609396579402214",
+    "dName": "Vũ Vân Anh",
+    "zaloName": "Vũ Vân Anh",
+    "avatar": "//s120-ava-talk.zadn.vn/b/5/6/9/1/120/5c37eb18d0879592307b9f8f8d68b46c.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/b/5/6/9/1/35/5c37eb18d0879592307b9f8f8d68b46c.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "1782890611584491948",
+    "dName": "Tùng",
+    "zaloName": "Tùng",
+    "avatar": "//s120-ava-talk.zadn.vn/e/0/7/d/39/120/a5c51c3b23b3bed9ce93f50d9b126c12.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/e/0/7/d/39/35/a5c51c3b23b3bed9ce93f50d9b126c12.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "5600749384342713259",
+    "dName": "Nguyen Xuan Duy",
+    "zaloName": "Nguyen Xuan Duy",
+    "avatar": "//s120-ava-talk.zadn.vn/c/9/2/d/25/120/f5810e5073ee8898e999f312ff605480.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/c/9/2/d/25/35/f5810e5073ee8898e999f312ff605480.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "3602781939084102125",
+    "dName": "Đào Hải",
+    "zaloName": "Đào Hải",
+    "avatar": "//s120-ava-talk.zadn.vn/9/e/a/d/31/120/57817d6619dec1eb081c1f4422d33d59.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/9/e/a/d/31/35/57817d6619dec1eb081c1f4422d33d59.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "1743604335875943712",
+    "dName": "Tuấn Khuất",
+    "zaloName": "Tuấn Khuất",
+    "avatar": "//s160.avatar.talk.zdn.vn/default",
+    "avatar_25": "//s160.avatar.talk.zdn.vn/default",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "1494072574627180462",
+    "dName": "Nguyễn Thị Bích Diệp",
+    "zaloName": "Nguyễn Thị Bích Diệp",
+    "avatar": "//s120-ava-talk.zadn.vn/d/8/b/9/14/120/52ff75659af286cc738402ed4f204930.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/d/8/b/9/14/35/52ff75659af286cc738402ed4f204930.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "1272293288082570938",
+    "dName": "Lồ Chỉnh",
+    "zaloName": "Lồ Chỉnh",
+    "avatar": "//s120-ava-talk.zadn.vn/c/2/0/e/1/120/55a76a6645df508d1e87c0c4682c78a9.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/c/2/0/e/1/35/55a76a6645df508d1e87c0c4682c78a9.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "7238659447648835430",
+    "dName": "Thuy",
+    "zaloName": "Thuy",
+    "avatar": "//s120-ava-talk.zadn.vn/3/5/3/c/5/120/28e596d72fb124a6ecb23d6b744e60cf.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/3/5/3/c/5/35/28e596d72fb124a6ecb23d6b744e60cf.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "1157439412939802370",
+    "dName": "Thảo Uyên",
+    "zaloName": "Thảo Uyên",
+    "avatar": "//s120-ava-talk.zadn.vn/e/a/2/d/4/120/f16209b62561bf4e17379d8d20fb7e24.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/e/a/2/d/4/35/f16209b62561bf4e17379d8d20fb7e24.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "7296801720449392977",
+    "dName": "Tina Kiều Hạnh",
+    "zaloName": "Tina Kiều Hạnh",
+    "avatar": "//s120-ava-talk.zadn.vn/8/1/5/8/18/120/2268e93f24b87c2a275f2fcbee696ba4.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/8/1/5/8/18/35/2268e93f24b87c2a275f2fcbee696ba4.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "5286609352323126095",
+    "dName": "Nguyễn Nam",
+    "zaloName": "Nguyễn Nam",
+    "avatar": "//s120-ava-talk.zadn.vn/9/8/7/5/2/120/c8be2b7872bed2141d3fda14eff35cce.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/9/8/7/5/2/35/c8be2b7872bed2141d3fda14eff35cce.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "494300928313597390",
+    "dName": "Can Duy",
+    "zaloName": "Can Duy",
+    "avatar": "//s120-ava-talk.zadn.vn/7/9/f/8/36/120/048361d28bdc061fdae099fe8683d57c.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/7/9/f/8/36/35/048361d28bdc061fdae099fe8683d57c.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "8933421366903850475",
+    "dName": "Quốc Anh",
+    "zaloName": "Quốc Anh",
+    "avatar": "//s120-ava-talk.zadn.vn/0/3/0/a/1/120/8ac97e250513c58e91797fd0bc8ea7e3.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/0/3/0/a/1/35/8ac97e250513c58e91797fd0bc8ea7e3.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "4242032288414114764",
+    "dName": "Danh",
+    "zaloName": "Danh",
+    "avatar": "//s120-ava-talk.zadn.vn/2/2/3/6/2/120/b6ae09fa2ce7a634f7cc59ea2c4095a2.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/2/2/3/6/2/35/b6ae09fa2ce7a634f7cc59ea2c4095a2.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "3572818203647566727",
+    "dName": "Nguyễn Thị Liệu",
+    "zaloName": "Nguyễn Thị Liệu",
+    "avatar": "//s120-ava-talk.zadn.vn/b/4/c/a/6/120/dde013896a4a77c5fc9995c906109565.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/b/4/c/a/6/35/dde013896a4a77c5fc9995c906109565.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "6914112161311452129",
+    "dName": "Jenny",
+    "zaloName": "Jenny",
+    "avatar": "//s120-ava-talk.zadn.vn/8/3/e/1/8/120/2e3afc456c819f0d774e77f9335d824a.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/8/3/e/1/8/35/2e3afc456c819f0d774e77f9335d824a.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "7938271928539284280",
+    "dName": "Nguyễn Việt Hoàng",
+    "zaloName": "Nguyễn Việt Hoàng",
+    "avatar": "//s120-ava-talk.zadn.vn/f/a/b/a/5/120/080241cec62b03ae897083fab26f34e4.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/f/a/b/a/5/35/080241cec62b03ae897083fab26f34e4.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "6502171422926512430",
+    "dName": "Hoàng Linh Chi",
+    "zaloName": "Hoàng Linh Chi",
+    "avatar": "//s120-ava-talk.zadn.vn/7/9/6/b/30/120/bdc5fac09823dafc373a8e7ceb3c14c3.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/7/9/6/b/30/35/bdc5fac09823dafc373a8e7ceb3c14c3.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "5936664566831281777",
+    "dName": "Hoang Anh Tuan",
+    "zaloName": "Hoang Anh Tuan",
+    "avatar": "//s120-ava-talk.zadn.vn/2/1/f/6/35/120/a948151ad1bc2c57f4f70e6887e45079.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/2/1/f/6/35/35/a948151ad1bc2c57f4f70e6887e45079.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "700467176354051754",
+    "dName": "Việt Anh",
+    "zaloName": "Việt Anh",
+    "avatar": "//s120-ava-talk.zadn.vn/0/2/9/2/1/120/ebd672eff8ff9a748c358a37a72ec064.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/0/2/9/2/1/35/ebd672eff8ff9a748c358a37a72ec064.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "3924091208946484327",
+    "dName": "Lê Trọng Bình",
+    "zaloName": "Lê Trọng Bình",
+    "avatar": "//s120-ava-talk.zadn.vn/1/1/d/f/4/120/b64ee51a500374bc40831954473250e7.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/1/1/d/f/4/35/b64ee51a500374bc40831954473250e7.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "5626498081905646599",
+    "dName": "Vân Nguyễn",
+    "zaloName": "Vân Nguyễn",
+    "avatar": "//s120-ava-talk.zadn.vn/1/5/9/8/14/120/86a1df936c6d7ca5bdb0f4f619d63156.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/1/5/9/8/14/35/86a1df936c6d7ca5bdb0f4f619d63156.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "825170100750860129",
+    "dName": "Ngọc Mỹ Pmkt",
+    "zaloName": "Ngọc Mỹ Pmkt",
+    "avatar": "//s120-ava-talk.zadn.vn/9/d/6/6/23/120/77876a7a4c44c562ff276d58cd0d5f5e.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/9/d/6/6/23/35/77876a7a4c44c562ff276d58cd0d5f5e.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "128244310047392213",
+    "dName": "Trần Hưng",
+    "zaloName": "Trần Hưng",
+    "avatar": "//s120-ava-talk.zadn.vn/f/c/5/d/14/120/98e09f93e7803d432cf08dbd3abb9e19.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/f/c/5/d/14/35/98e09f93e7803d432cf08dbd3abb9e19.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "2662662088103039201",
+    "dName": "Nguyễn Vân Dương",
+    "zaloName": "Nguyễn Vân Dương",
+    "avatar": "//s120-ava-talk.zadn.vn/5/1/8/b/4/120/ede6f3101ed0652bb641263cf0a26dc8.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/5/1/8/b/4/35/ede6f3101ed0652bb641263cf0a26dc8.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "3128789127461734265",
+    "dName": "Phạm Thị Hoa",
+    "zaloName": "Phạm Thị Hoa",
+    "avatar": "//s120-ava-talk.zadn.vn/f/c/2/8/24/120/ec06e21ff8ddc6d65a4b3eaee8f5c4af.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/f/c/2/8/24/35/ec06e21ff8ddc6d65a4b3eaee8f5c4af.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "2606383556227713081",
+    "dName": "Thao Pham",
+    "zaloName": "Thao Pham",
+    "avatar": "//s120-ava-talk.zadn.vn/8/1/f/6/10/120/788fa2e4bb0a5f636de60b416f735a33.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/8/1/f/6/10/35/788fa2e4bb0a5f636de60b416f735a33.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "6051098297317944811",
+    "dName": "TT Ảnh Màu Tiến Tâm",
+    "zaloName": "TT Ảnh Màu Tiến Tâm",
+    "avatar": "//s120-ava-talk.zadn.vn/c/2/b/a/19/120/7ee61d0676ab05a4aaf4ef606f823031.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/c/2/b/a/19/35/7ee61d0676ab05a4aaf4ef606f823031.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "6931010235328694333",
+    "dName": "Huynh Duc Tho",
+    "zaloName": "Huynh Duc Tho",
+    "avatar": "//s120-ava-talk.zadn.vn/b/3/5/4/9/120/0157af3311150f3957da77791a7e01d5.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/b/3/5/4/9/35/0157af3311150f3957da77791a7e01d5.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "1602598363682991151",
+    "dName": "Anh Tuấn",
+    "zaloName": "Anh Tuấn",
+    "avatar": "//s120-ava-talk.zadn.vn/b/0/b/e/6/120/cb6690791ef0f3278b81b718b391630b.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/b/0/b/e/6/35/cb6690791ef0f3278b81b718b391630b.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "3760549990587974434",
+    "dName": "Duy Dưỡng",
+    "zaloName": "Duy Dưỡng",
+    "avatar": "//s120-ava-talk.zadn.vn/b/9/9/5/10/120/387191d4c8797c5d89a33449c5693f59.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/b/9/9/5/10/35/387191d4c8797c5d89a33449c5693f59.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "3248560461612875527",
+    "dName": "Minhphuongbui",
+    "zaloName": "Minhphuongbui",
+    "avatar": "//s120-ava-talk.zadn.vn/a/4/7/c/1/120/92526e0c8529fdfb60dd4cae80f8e9b4.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/a/4/7/c/1/35/92526e0c8529fdfb60dd4cae80f8e9b4.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "8936806704247553559",
+    "dName": "Mnguyen Van An",
+    "zaloName": "Mnguyen Van An",
+    "avatar": "//s120-ava-talk.zadn.vn/6/2/0/4/19/120/c19edd6f2191b83da8a4b22c709efc87.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/6/2/0/4/19/35/c19edd6f2191b83da8a4b22c709efc87.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "3703835021430428276",
+    "dName": "To Thi Thanh",
+    "zaloName": "To Thi Thanh",
+    "avatar": "//s120-ava-talk.zadn.vn/f/0/a/4/11/120/4123cf5183a06d753e50ed1d3ef6552d.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/f/0/a/4/11/35/4123cf5183a06d753e50ed1d3ef6552d.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "5166543932298638241",
+    "dName": "Nguyenvancuong",
+    "zaloName": "Nguyenvancuong",
+    "avatar": "//s120-ava-talk.zadn.vn/c/3/e/9/1/120/743f44acda66b06b8f51e457d75f3660.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/c/3/e/9/1/35/743f44acda66b06b8f51e457d75f3660.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "5538100254410035401",
+    "dName": "Ducanh Le",
+    "zaloName": "Ducanh Le",
+    "avatar": "//s120-ava-talk.zadn.vn/d/e/1/b/115/120/7f47c2009c12b8ddeeeb3fc09ac987f2.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/d/e/1/b/115/35/7f47c2009c12b8ddeeeb3fc09ac987f2.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "1695911260253673883",
+    "dName": "Hoàng Anh",
+    "zaloName": "Hoàng Anh",
+    "avatar": "//s120-ava-talk.zadn.vn/1/f/d/2/29/120/40a67b8046a0def2659fc82dbc05b10e.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/1/f/d/2/29/35/40a67b8046a0def2659fc82dbc05b10e.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "8028343054765015672",
+    "dName": "Aki",
+    "zaloName": "Aki",
+    "avatar": "//s120-ava-talk.zadn.vn/1/1/5/c/9/120/431f1b0ecd7c15bbcbe481352e1e04e3.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/1/1/5/c/9/35/431f1b0ecd7c15bbcbe481352e1e04e3.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "753243188197210470",
+    "dName": "Maria Hao",
+    "zaloName": "Maria Hao",
+    "avatar": "//s120-ava-talk.zadn.vn/1/c/7/c/7/120/7ff98092e63abb2945c8a671fa84d949.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/1/c/7/c/7/35/7ff98092e63abb2945c8a671fa84d949.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "3817714077241510121",
+    "dName": "Thào Mí Páo",
+    "zaloName": "Thào Mí Páo",
+    "avatar": "//s120-ava-talk.zadn.vn/d/f/a/a/4/120/4cc3c504967f5c95e1ecba1c6bbba08d.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/d/f/a/a/4/35/4cc3c504967f5c95e1ecba1c6bbba08d.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "4278737589369707891",
+    "dName": "Lê Hoàng",
+    "zaloName": "Lê Hoàng",
+    "avatar": "//s120-ava-talk.zadn.vn/2/c/9/7/31/120/67c30d90ae8490f60d5c8938dcae485f.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/2/c/9/7/31/35/67c30d90ae8490f60d5c8938dcae485f.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "8572165427805898724",
+    "dName": "vu",
+    "zaloName": "vu",
+    "avatar": "//s120-ava-talk.zadn.vn/a/2/a/c/2/120/27495997ad18a03625c3226adda1dffc.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/a/2/a/c/2/35/27495997ad18a03625c3226adda1dffc.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "3195361751898207050",
+    "dName": "Nguyễn Phương Thuận",
+    "zaloName": "Nguyễn Phương Thuận",
+    "avatar": "//s120-ava-talk.zadn.vn/c/c/b/8/7/120/ddc0d5c3de7a2df94afbeee8d829e470.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/c/c/b/8/7/35/ddc0d5c3de7a2df94afbeee8d829e470.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "9108499753566494325",
+    "dName": "Thu Mai",
+    "zaloName": "Thu Mai",
+    "avatar": "//s120-ava-talk.zadn.vn/d/6/4/8/17/120/290a56246c0d6e67e9ccfae128737df1.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/d/6/4/8/17/35/290a56246c0d6e67e9ccfae128737df1.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "6974236098916478683",
+    "dName": "Trần Minh Tuấn",
+    "zaloName": "Trần Minh Tuấn",
+    "avatar": "//s120-ava-talk.zadn.vn/c/5/f/4/8/120/77d7964187bf75abc42810ef2fa43547.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/c/5/f/4/8/35/77d7964187bf75abc42810ef2fa43547.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "6453174264473129116",
+    "dName": "Nhật Linh Nguyễn",
+    "zaloName": "Nhật Linh Nguyễn",
+    "avatar": "//s120-ava-talk.zadn.vn/b/0/d/5/13/120/8bddbf34b25900f0e10bdedf5f123a8e.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/b/0/d/5/13/35/8bddbf34b25900f0e10bdedf5f123a8e.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "4679462246179043298",
+    "dName": "Kim Tùng",
+    "zaloName": "Kim Tùng",
+    "avatar": "//s120-ava-talk.zadn.vn/9/1/8/e/8/120/42a52cbe981211fda2271270b676ba95.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/9/1/8/e/8/35/42a52cbe981211fda2271270b676ba95.jpg",
+    "accountStatus": 0,
+    "type": 0
+  },
+  {
+    "id": "5453516233847808700",
+    "dName": "Sồng A Của",
+    "zaloName": "Sồng A Của",
+    "avatar": "//s120-ava-talk.zadn.vn/e/f/e/9/14/120/a7999db03adbcf64798c6eec01cf9423.jpg",
+    "avatar_25": "//s35-ava-talk.zadn.vn/e/f/e/9/14/35/a7999db03adbcf64798c6eec01cf9423.jpg",
+    "accountStatus": 0,
+    "type": 0
+  }
+]
