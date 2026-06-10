@@ -1,0 +1,7 @@
+PyQt6
+requests
+webdriver-manager
+undetected-chromedriver
+pycryptodome
+zlapi
+setuptools
