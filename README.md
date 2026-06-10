@@ -6,6 +6,14 @@
 
 Một ứng dụng Desktop hiện đại phát triển bằng **Python** và **PyQt6**, cung cấp công cụ giải mã (decode) các tham số mã hóa từ bất kỳ API nào của Zalo.
 
+## Giới thiệu (About)
+
+Khi làm việc với các hệ thống hoặc phát triển ứng dụng tích hợp Zalo, các nhà phát triển thường gặp khó khăn do các yêu cầu API (như gửi tin nhắn, lấy thông tin nhóm, trạng thái tin nhắn...) đều mã hóa các tham số dưới dạng một chuỗi ký tự bí mật bằng thuật toán mã hóa đối xứng AES.
+
+**Zalo API Tools** ra đời nhằm giúp các lập trình viên và nhà nghiên cứu bảo mật:
+* **Hỗ trợ gỡ lỗi nhanh chóng**: Dễ dàng trích xuất khóa bí mật `secret_key` thông qua giao diện quét mã QR tự động.
+* **Giải mã tham số trực quan**: Chỉ cần dán URL hoặc chuỗi `params` mã hóa vào giao diện để nhận lại dữ liệu JSON rõ ràng, giúp hiểu rõ cấu trúc dữ liệu gửi và nhận của Zalo.
+* **Phục vụ học tập và nghiên cứu**: Là tài liệu tham khảo hữu ích cho việc xây dựng các thư viện API Wrapper tự động hóa (như `zlapi`) hoặc phân tích giao thức truyền thông của ứng dụng chat.
 
 ---
 
@@ -26,7 +34,7 @@ Một ứng dụng Desktop hiện đại phát triển bằng **Python** và **P
 Dự án được cấu trúc modular hóa rõ ràng:
 
 ```
-D/src
+/src
 ├── main.py                     # File chạy chính của ứng dụng
 ├── requirements.txt            # Danh sách thư viện phụ thuộc
 ├── utils/                      # Chức năng tiện ích bổ trợ
@@ -72,3 +80,9 @@ D/src
 2. **Bước 2**: Nhấp chọn nút bộ lọc **Fetch/XHR** trên tab Network của cửa sổ DevTools để lọc gói tin. Sau đó tiến hành quét mã QR đăng nhập tài khoản Zalo của bạn.
 3. **Bước 3**: Sau khi đăng nhập thành công, thanh trạng thái sẽ chuyển sang màu xanh lá báo `Đã đăng nhập | Secret key...`. Trình duyệt có thể tự đóng hoặc bạn có thể nhấn **Đóng trình duyệt**. Lúc này, nút tính năng giải mã sẽ được kích hoạt.
 4. **Bước 4 (Giải mã API)**: Sao chép URL API hoặc chuỗi `params=` thu được trong tab Network của DevTools, dán vào Tab **Giải mã Params** -> nhấn **Bắt đầu giải mã**. Bạn có thể bấm **Lưu kết quả giải mã** để xuất dữ liệu ra file JSON.
+
+---
+
+## Giấy phép (License)
+
+Dự án này được phát hành dưới bản quyền **MIT License**. Xem chi tiết tại tệp [LICENSE](https://github.com/mquand/ZL-API-Debugger/blob/main/LICENSE) để biết thêm thông tin.

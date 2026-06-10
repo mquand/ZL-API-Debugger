@@ -13,6 +13,19 @@ class ZaloGroupGUI(QtWidgets.QWidget):
         super().__init__()
         self.setWindowTitle("Zalo API Tools - Công cụ Zalo toàn diện")
         self.setGeometry(300, 200, 950, 780)
+        
+        # Thiết lập icon cho cửa sổ ứng dụng và thanh taskbar trên Windows từ tệp icon.png vuông
+        import os
+        base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        icon_path = os.path.join(base_dir, "resource", "icon.png")
+        self.setWindowIcon(QtGui.QIcon(icon_path))
+        
+        try:
+            import ctypes
+            ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID("zalo.api.decoder.v1")
+        except Exception:
+            pass
+            
         self.zalo_service = ZaloService()
         self.driver = None
         self.init_ui()
@@ -32,7 +45,7 @@ class ZaloGroupGUI(QtWidgets.QWidget):
         logo_path = os.path.join(base_dir, "resource", "logo.png")
         logo_pixmap = QtGui.QPixmap(logo_path)
         if not logo_pixmap.isNull():
-            self.logo_label.setPixmap(logo_pixmap.scaled(64, 64, QtCore.Qt.AspectRatioMode.KeepAspectRatio, QtCore.Qt.TransformationMode.SmoothTransformation))
+            self.logo_label.setPixmap(logo_pixmap.scaledToHeight(64, QtCore.Qt.TransformationMode.SmoothTransformation))
         else:
             self.logo_label.setText("[LOGO]")
             self.logo_label.setStyleSheet("font-weight: bold; color: #4F46E5;")
