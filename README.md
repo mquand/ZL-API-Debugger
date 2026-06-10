@@ -6,7 +6,6 @@
 
 Một ứng dụng Desktop hiện đại phát triển bằng **Python** và **PyQt6**, cung cấp công cụ giải mã (decode) các tham số mã hóa từ bất kỳ API nào của Zalo.
 
-Giao diện ứng dụng được thiết kế theo phong cách tinh tế, chuyên nghiệp kiểu SaaS (Modern Light Slate SaaS Theme).
 
 ---
 
@@ -27,7 +26,7 @@ Giao diện ứng dụng được thiết kế theo phong cách tinh tế, chuy�
 Dự án được cấu trúc modular hóa rõ ràng:
 
 ```
-d:\Test-zalo\request\
+D/src
 ├── main.py                     # File chạy chính của ứng dụng
 ├── requirements.txt            # Danh sách thư viện phụ thuộc
 ├── utils/                      # Chức năng tiện ích bổ trợ
