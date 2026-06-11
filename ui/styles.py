@@ -1,6 +1,6 @@
-# File định dạng giao diện QSS phong cách SaaS sáng (Light Slate)
+# File định dạng giao diện QSS phong cách SaaS sáng (Light) và tối (Dark)
 
-SAAS_STYLING = """
+LIGHT_STYLING = """
 /* Định dạng chung cho các Widget */
 QWidget {
     background-color: #F8FAFC;
@@ -80,7 +80,10 @@ QPushButton:hover {
 QPushButton:pressed {
     background-color: #3730A3;
 }
-QPushButton:disabled {
+QPushButton:disabled,
+QPushButton#primary_btn:disabled,
+QPushButton#action_btn:disabled,
+QPushButton#danger_btn:disabled {
     background-color: #E2E8F0;
     color: #94A3B8;
     border: 1px solid #CBD5E1;
@@ -154,3 +157,164 @@ QTabBar::tab:selected {
     border-bottom: 2px solid #4F46E5;
 }
 """
+
+DARK_STYLING = """
+/* Định dạng chung cho các Widget */
+QWidget {
+    background-color: #0F172A;
+    color: #F8FAFC;
+    font-family: "Segoe UI", "Segoe UI Semibold", "Inter", sans-serif;
+    font-size: 13px;
+}
+
+/* Định dạng thanh cuộn (Scrollbar) */
+QScrollBar:vertical {
+    border: none;
+    background: #0F172A;
+    width: 8px;
+    margin: 0px 0 0px 0;
+}
+QScrollBar::handle:vertical {
+    background: #334155;
+    min-height: 20px;
+    border-radius: 4px;
+}
+QScrollBar::handle:vertical:hover {
+    background: #475569;
+}
+QScrollBar::add-line:vertical, QScrollBar::sub-line:vertical {
+    height: 0px;
+}
+
+/* Định dạng Nhãn chữ (Label) */
+QLabel {
+    color: #F8FAFC;
+}
+QLabel#subtext {
+    color: #94A3B8;
+    font-size: 12px;
+}
+
+/* Định dạng Thanh trạng thái (Status Bar) */
+QLabel#status_label {
+    background-color: #1E293B;
+    border: 1px solid #334155;
+    padding: 10px;
+    border-radius: 8px;
+    font-weight: bold;
+    color: #38BDF8;
+}
+
+/* Định dạng Hộp nhóm (GroupBox - các khung giao diện) */
+QGroupBox {
+    background-color: #1E293B;
+    border: 1px solid #334155;
+    border-radius: 8px;
+    margin-top: 16px;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 12px;
+}
+QGroupBox::title {
+    subcontrol-origin: margin;
+    subcontrol-position: top left;
+    left: 10px;
+    padding: 2px 8px;
+    color: #818CF8;
+}
+
+/* Định dạng Nút bấm (Button) */
+QPushButton {
+    background-color: #6366F1;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 8px 16px;
+    font-weight: bold;
+}
+QPushButton:hover {
+    background-color: #4F46E5;
+}
+QPushButton:pressed {
+    background-color: #4338CA;
+}
+QPushButton:disabled,
+QPushButton#primary_btn:disabled,
+QPushButton#action_btn:disabled,
+QPushButton#danger_btn:disabled {
+    background-color: #1E293B;
+    color: #64748B;
+    border: 1px solid #334155;
+}
+
+/* Nút bấm nổi bật / chính (Primary buttons) */
+QPushButton#primary_btn {
+    background-color: #6366F1;
+}
+QPushButton#primary_btn:hover {
+    background-color: #4F46E5;
+}
+QPushButton#primary_btn:pressed {
+    background-color: #4338CA;
+}
+
+/* Nút bấm hành động phụ (Action buttons) */
+QPushButton#action_btn {
+    background-color: #0EA5E9;
+}
+QPushButton#action_btn:hover {
+    background-color: #0284C7;
+}
+
+/* Nút bấm nguy hiểm / xóa (Danger/Delete buttons) */
+QPushButton#danger_btn {
+    background-color: #EF4444;
+}
+QPushButton#danger_btn:hover {
+    background-color: #DC2626;
+}
+
+/* Ô nhập liệu văn bản (LineEdit và TextEdit) */
+QLineEdit, QTextEdit {
+    background-color: #0F172A;
+    border: 1px solid #334155;
+    border-radius: 6px;
+    padding: 8px;
+    color: #F8FAFC;
+    font-family: "Consolas", monospace;
+    font-size: 13px;
+}
+QLineEdit:focus, QTextEdit:focus {
+    border: 1px solid #6366F1;
+}
+
+/* Định dạng Tab Widget */
+QTabWidget::pane {
+    border: 1px solid #334155;
+    background-color: #1E293B;
+    border-radius: 8px;
+    top: -1px;
+}
+QTabBar::tab {
+    background-color: #1E293B;
+    color: #94A3B8;
+    padding: 10px 20px;
+    border: 1px solid #334155;
+    border-bottom: none;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    margin-right: 4px;
+}
+QTabBar::tab:hover {
+    background-color: #334155;
+    color: #F8FAFC;
+}
+QTabBar::tab:selected {
+    background-color: #1E293B;
+    color: #F8FAFC;
+    border-bottom: 2px solid #6366F1;
+}
+"""
+
+# Alias tương thích ngược
+SAAS_STYLING = LIGHT_STYLING

@@ -4,7 +4,7 @@ import traceback
 from PyQt6 import QtWidgets, QtCore, QtGui
 from utils import browser_builder, REQUIRED_COOKIE_KEYS, POLL_INTERVAL, POLL_TIMEOUT
 from services import ZaloService
-from ui.styles import SAAS_STYLING
+from ui.styles import LIGHT_STYLING, DARK_STYLING
 from ui.log_tab import LogTab
 from ui.decode_universal_tab import DecodeUniversalTab
 
@@ -12,7 +12,8 @@ class ZaloGroupGUI(QtWidgets.QWidget):
     def __init__(self):
         super().__init__()
         self.setWindowTitle("Zalo API Tools - Công cụ Zalo toàn diện")
-        self.setGeometry(300, 200, 950, 780)
+        self.setGeometry(300, 200, 800, 600)
+        self.is_dark_mode = True
         
         # Thiết lập icon cho cửa sổ ứng dụng và thanh taskbar trên Windows từ tệp icon.png vuông
         import os
@@ -64,6 +65,11 @@ class ZaloGroupGUI(QtWidgets.QWidget):
         header_layout.addLayout(title_layout)
         header_layout.addStretch()
         
+        self.theme_btn = QtWidgets.QPushButton("Giao diện: Tối 🌙")
+        self.theme_btn.setObjectName("action_btn")
+        self.theme_btn.clicked.connect(self.toggle_theme)
+        header_layout.addWidget(self.theme_btn)
+        
         layout.addLayout(header_layout)
 
         # === Thanh trạng thái ===
@@ -102,7 +108,16 @@ class ZaloGroupGUI(QtWidgets.QWidget):
         layout.addWidget(self.tabs)
 
     def apply_styles(self):
-        self.setStyleSheet(SAAS_STYLING)
+        if self.is_dark_mode:
+            self.setStyleSheet(DARK_STYLING)
+            self.theme_btn.setText("Giao diện: Tối 🌙")
+        else:
+            self.setStyleSheet(LIGHT_STYLING)
+            self.theme_btn.setText("Giao diện: Sáng ☀️")
+
+    def toggle_theme(self):
+        self.is_dark_mode = not self.is_dark_mode
+        self.apply_styles()
 
     def log(self, *args):
         self.tab_log_widget.log(*args)
