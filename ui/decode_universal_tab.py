@@ -42,6 +42,7 @@ class DecodeUniversalTab(QtWidgets.QWidget):
         decode_layout.addWidget(decode_desc)
 
         self.universal_params_input = QtWidgets.QTextEdit()
+        self.universal_params_input.setAcceptRichText(False)
         self.universal_params_input.setPlaceholderText("Dán params (hoặc URL hoàn chỉnh) vào đây...\nVí dụ: https://tt-group-wpa.chat.zalo.me/.../deliveredv2?params=xxxx")
         self.universal_params_input.setFixedHeight(220)
         decode_layout.addWidget(self.universal_params_input)
@@ -83,7 +84,7 @@ class DecodeUniversalTab(QtWidgets.QWidget):
 
         def worker():
             try:
-                self._do_decode_universal_params()
+                self._do_decode_universal_params(params_text)
             finally:
                 # Kích hoạt cập nhật giao diện trên luồng chính thông qua tín hiệu signal một cách an toàn
                 self.decode_finished.emit(self.last_decoded_result is not None)
@@ -98,9 +99,8 @@ class DecodeUniversalTab(QtWidgets.QWidget):
         self.decode_universal_btn.setEnabled(True)
         self.save_decode_btn.setEnabled(success)
 
-    def _do_decode_universal_params(self):
+    def _do_decode_universal_params(self, params_text):
         try:
-            params_text = self.universal_params_input.toPlainText()
             encoded_params = extract_params_from_input(params_text)
             
             if not encoded_params:
